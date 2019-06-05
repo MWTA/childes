@@ -1,0 +1,7 @@
+## Estátistica - Dataset Wells ##
+1. Tamanho médio das frases em número de tokens: 6
+2. Total de frases: 1720
+3. Total de tokens: 11597
+4. Gráfico de barra (distribuição de frequência) do número de tokens por frase.
+5. Gráfico de barra (distribuição de frequência) do número de tokens por classe gramatical.
+6. Gráfico de barra (distribuição de frequência) do número de tokens por classe gramatical com lemmas.

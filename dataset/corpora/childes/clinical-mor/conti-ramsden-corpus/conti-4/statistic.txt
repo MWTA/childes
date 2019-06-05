@@ -1,0 +1,6 @@
+## Estátistica do dataset ##
+1. tamanho médio das frases em numero de tokens: 7
+2. quantidade de frases: 3294
+3. total de tokens: 25539
+4. gráfico de barra (distribuição) do número de tokens por frase.
+5. gráfico de barra (distribuição) do número de tokens por classe gramatical.

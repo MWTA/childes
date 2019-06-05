@@ -1,0 +1,46 @@
++++++++++++++++ IDADE = 5 +++++++++++++++
+
+## Estátistica - Dataset Wells ##
+1. Tamanho médio das frases em número de tokens: 6
+2. Total de frases: 161
+3. Total de tokens: 1104
+
++++++++++++++++ IDADE = 4 +++++++++++++++
+
+## Estátistica - Dataset Belfast ##
+1. Tamanho médio das frases em número de tokens: 8
+2. Total de frases: 2765
+3. Total de tokens: 22291
+
+## Estátistica - Dataset Wells ##
+1. Tamanho médio das frases em número de tokens: 7
+2. Total de frases: 727
+3. Total de tokens: 5267
+
++++++++++++++++ IDADE = 3 +++++++++++++++
+
+## Estátistica - Dataset Belfast ##
+1. Tamanho médio das frases em número de tokens: 8
+2. Total de frases: 3486
+3. Total de tokens: 28110
+
+## Estátistica - Dataset Cruttenden ##
+1. Tamanho médio das frases em número de tokens: 6
+2. Total de frases: 58
+3. Total de tokens: 403
+
+## Estátistica - Dataset Manchester ##
+1. Tamanho médio das frases em número de tokens: 6
+2. Total de frases: 194
+3. Total de tokens: 1273
+
+## Estátistica - Dataset Tommerdahl ##
+1. Tamanho médio das frases em número de tokens: 7
+2. Total de frases: 1391
+3. Total de tokens: 9990
+
+## Estátistica - Dataset Wells ##
+1. Tamanho médio das frases em número de tokens: 6
+2. Total de frases: 1720
+3. Total de tokens: 11597
+
